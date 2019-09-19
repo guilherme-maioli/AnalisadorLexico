@@ -1,0 +1,12 @@
+eep {!  
+	#ra INT:  
+	#nome STR: 
+	
+	&setAluno(@ra; @nome) [   
+		~ra => @ra:   
+		~nome => @nome:
+	]
+	*setAluno(202076351; %Marcos%):
+	% %:
+	while:
+!}
